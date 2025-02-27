@@ -1,0 +1,1 @@
+SELECT * FROM facul.disciplinas WHERE sigla LIKE 'POB';
